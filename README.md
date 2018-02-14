@@ -1,4 +1,4 @@
-				Simple Budgeting App for IOS 
+					Simple Budgeting App for IOS 
 
 ![Screenshot](screenshots/1.png) ![Screenshots](screenshots/2.png)
 
